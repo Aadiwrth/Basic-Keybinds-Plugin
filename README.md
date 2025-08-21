@@ -8,7 +8,7 @@
     <img src="image/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">BASIC KEYBINDS FOR XOURNAL ++ </h3>
+<h3 align="center">BASIC KEYBINDS PLUGINS FOR XOURNAL ++ </h3>
 
   <p align="center">
     A simple basic keybinds plugin for xournal++, As i use <b>xournal++</b> most of the time i had hard time just using my stulus to navigate to tool and i just made a simple plugin to keybinds for myself and for the drawing tablet that i am using cause my tablet software doesn't support linux i can't really modify the button as i please so i just made this simple one.  
