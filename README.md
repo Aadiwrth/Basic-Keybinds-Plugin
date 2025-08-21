@@ -21,8 +21,7 @@
 
 ### Built With
 
-* [![Lua][lua.com]][lua-url]
-
+* <a href = "https://lua.org/"> <img width="70" alt="Lua logo" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"></a>
 
 
 <!-- GETTING STARTED -->
@@ -37,13 +36,13 @@ This is an step of how to install them.
 
 * Flatpak Download location
 
- ```sh
+ ```bash
   cd ~/.var/app/com.github.xournalpp.xournalpp/config/xournalpp/
   git clone https://github.com/Aadiwrth/Basic-Keybinds-Plugin.git
   ```
 
 * non-Flatpak Download location
- ```sh
+ ```bash
   cd ~/.config/xournalpp/plugins/
   git clone https://github.com/Aadiwrth/Basic-Keybinds-Plugin.git
  ```
@@ -51,15 +50,15 @@ This is an step of how to install them.
 ### Installation
 
 1. Go to your xournalapp location
- ```sh
+ ```bash
    cd ~/.var/app/com.github.xournalpp.xournalpp/config/xournalpp/
    ```
 or 
-  ```sh
+  ```bash
    cd ~/.config/xournalpp/plugins/
    ```
 2. Clone the repo into the plugins folder
- ```sh
+ ```bash
    git clone https://github.com/Aadiwrth/Basic-Keybinds-Plugin.git
    ```
 3. And Done that's all close the exisiting software and restart the software to apply the changes
@@ -82,7 +81,7 @@ After installing the plugin and restarting Xournal++, the following keybinds are
 | `S`                    | "Squiggly" Select tool     |
 | `V`                    | Highlighter tool           |
 | `X`                    | LaTeX tool                 |
-| `Ctrl+Shift+N`         | Create a new layer         |
+| `Ctrl+shift+N`         | Create a new layer         |
 
 💡 Tip: All keybinds can be used immediately after restarting Xournal++ with the plugin loaded. This makes switching tools much faster, especially when using a drawing tablet.
 
@@ -110,6 +109,3 @@ Project Link: [https://github.com/Aadiwrth/Basic-Keybinds-Plugin.git](https://gi
 
 
 
-
-[lua.com]: https://lua.org/images/lua-logo.gif
-[lua-url]: https://jquery.com 
