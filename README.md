@@ -102,7 +102,7 @@ app.registerUi({
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@wo_kuu](https://www.instagram.com/wo_kuu/) - wrthaadi@gmail.com
+Wokun - [@wo_kuu](https://www.instagram.com/wo_kuu/) - wrthaadi@gmail.com
 
 Project Link: [https://github.com/Aadiwrth/Basic-Keybinds-Plugin.git](https://github.com/Aadiwrth/Basic-Keybinds-Plugin.git)
 
