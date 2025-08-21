@@ -93,6 +93,9 @@ app.registerUi({
     ["accelerator"] = "<Control><Alt>M>"  -- Change this to any key combination you prefer
 })
 ```
+
+* Note if you want to add more keybinds shortcut then please visit this [Github-Repo](https://github.com/xournalpp/xournalpp/blob/289a74ba9558c9e7ee2521ce1e67ce65d9da5426/src/core/control/Control.cpp#L411-L1111) to find the actions guides.
+
 <!-- CONTACT -->
 ## Contact
 
