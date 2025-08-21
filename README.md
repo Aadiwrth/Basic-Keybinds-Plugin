@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aadiwrth/Basic-Keybinds-Plugin">
-    <img src="image/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">BASIC KEYBINDS FOR XOURNAL ++ </h3>
