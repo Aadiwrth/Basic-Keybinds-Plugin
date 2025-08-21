@@ -18,36 +18,43 @@ function initUi()
         ["callback"] = "pen",
         ["accelerator"] = "p"
     });
+     -- Eraser tool with "e"
     app.registerUi({
         ["menu"] = "Eraser Tool",
         ["callback"] = "eraser",
         ["accelerator"] = "e"
     });
+     -- Text tool with "t"
     app.registerUi({
         ["menu"] = "Text tool",
         ["callback"] = "text",
         ["accelerator"] = "t"
     });
+     -- Rectangular tool with "r"
     app.registerUi({
         ["menu"] = "Rectangular Select tool",
         ["callback"] = "rect_select",
         ["accelerator"] = "r"
     });
+     -- Squiggly tool with "s"
     app.registerUi({
         ["menu"] = "\"Squiggly\" Select tool",
         ["callback"] = "squig_select",
         ["accelerator"] = "s"
     });
+     -- Highlighter tool with "v"
     app.registerUi({
         ["menu"] = "Highlighter tool",
         ["callback"] = "highlighter",
         ["accelerator"] = "v"
     });
+     -- LaTex tool with "x"
     app.registerUi({
         ["menu"] = "LaTex tool",
         ["callback"] = "latex",
         ["accelerator"] = "x"
     });
+     -- layer tool with "ctrl+shift+n"
     app.registerUi({
         ["menu"] = "New layer tool",
         ["callback"] = "new_lay",
